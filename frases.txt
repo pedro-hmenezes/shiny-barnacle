@@ -2,5 +2,8 @@
 2. Um robô deve obedecer às ordens dos humanos, exceto quando entrem em conflito com a primeira lei
 3. Um robô deve proteger a sua própria existência, desde que não entre em conflito com as leis anteriores 
 
+E naipe 
+tuguchu tuguchu
+
 
 
